@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile Excercise</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="photos_fragment">Photos Fragment</string>
+    <string name="photo_zoom_fragment">Photo Zoom Fragment</string>
+    <string name="search">Search</string>
+
+
+</resources>
