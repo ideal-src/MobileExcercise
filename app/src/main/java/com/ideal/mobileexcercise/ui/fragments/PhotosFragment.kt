@@ -44,6 +44,10 @@ class PhotosFragment : DaggerFragment(R.layout.fragment_photos) {
 
         binding = FragmentPhotosBinding.bind(view)
 
+//        old and other specific phone version still can't  retainInstance even with view model
+//        by adding retainInstance = true it can help to retain item through configuration changees
+        retainInstance = true
+
         initUI()
     }
 
