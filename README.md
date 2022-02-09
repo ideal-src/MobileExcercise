@@ -11,3 +11,6 @@
 
 ## Architecture
 The project uses MVVM architecture pattern.
+
+## JUNIT 4 Testing
+*[ExampleInstrumentedTest] inside the file. simple Junit testing for checking api calls if successful and if response body is null
