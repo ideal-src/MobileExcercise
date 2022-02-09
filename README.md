@@ -7,7 +7,12 @@
 * [Retrofit](https://square.github.io/retrofit/) - To access the Rest Api
 * [Dagger 2](https://dagger.dev/dev-guide/) - For Dependency Injection.
 * [picasso](https://square.github.io/picasso/) - For loading image
-* [Flicker](https://www.flickr.com/services/api/misc.api_keys.html.) - For data samples.
+* [Flicker](https://www.flickr.com/services/api/misc.api_keys.html) - For data samples.
+* [junit](https://github.com/junit-team/junit4) - For data samples.
+* [mockwebserver](https://github.com/square/okhttp/tree/master/mockwebserver) - For data samples.
 
 ## Architecture
 The project uses MVVM architecture pattern.
+
+## Also runs on night/dark mode
+
